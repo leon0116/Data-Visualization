@@ -1,2 +1,2 @@
 # data-visualization
-This is my final report og data visualization
+This is my final report of data visualization
